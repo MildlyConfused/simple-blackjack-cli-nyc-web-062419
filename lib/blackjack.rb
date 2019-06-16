@@ -56,7 +56,7 @@ end
 
 def runner
   welcome
-  initial_round
-  hit?
+  total = initial_round
+  puts total
 end
     
